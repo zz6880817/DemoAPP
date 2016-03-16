@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApp.iml" filepath="$PROJECT_DIR$/MyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidgesturedetectorslib/androidgesturedetectorslib.iml" filepath="$PROJECT_DIR$/androidgesturedetectorslib/androidgesturedetectorslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagedemo/imagedemo.iml" filepath="$PROJECT_DIR$/imagedemo/imagedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageloader/imageloader.iml" filepath="$PROJECT_DIR$/imageloader/imageloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/largeImagelib/largeImagelib.iml" filepath="$PROJECT_DIR$/largeImagelib/largeImagelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+    </modules>
+  </component>
+</project>
