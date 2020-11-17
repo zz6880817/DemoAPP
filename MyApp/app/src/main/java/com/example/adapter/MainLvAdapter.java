@@ -56,6 +56,7 @@ public class MainLvAdapter extends BaseAdapter {
 
     @Override
     public long getItemId(int position) {
+		if(position == 1) return 1;
         return position;
     }
 
