@@ -48,7 +48,9 @@ public class BigBitmapUtils {
              }
          }else{
               Message msg = Message.obtain();
-              msg.obj = bm;
+			  msg.obj = "1111";
+			  msg.obj = "1121";
+			  msg.obj = "1131";
               handler.sendMessage(msg);
          }
 
