@@ -48,7 +48,8 @@ public class BigBitmapUtils {
              }
          }else{
               Message msg = Message.obtain();
-              msg.obj = bm;
+              msg.obj = "2222";
+			  //测试带啊吗
               handler.sendMessage(msg);
          }
 
